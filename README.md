@@ -28,7 +28,8 @@ Add your subjects<br>
 Log your study sessions daily
 Watch your progress grow 📈
 <br>
-tracker link:https://cleopatra-asp.github.io/Study-tracker/
+tracker link:https://cleopatra-asp.github.io/Study-tracker/ <br>
+
 👩‍💻 About the Developer<br>
 Built by Ayesha Tofajjol — Full Stack Developer & AI Product Builder.<br>
 🌐 ProxyMe — AI Chief of Staff<br>
